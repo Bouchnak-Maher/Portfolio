@@ -9,7 +9,7 @@ function Experience() {
     const theme= useTheme()
     return (
         <ExperienceStyled id='experience' theme={theme}>
-            <Title name={'Education & Experince  '}  />
+            <Title name={'Education & Experience  '}  />
             <div className="timeline-con">
                 <Timeline />
             </div>

@@ -22,7 +22,7 @@ function Header({toggle, setToggle}) {
             <div className="left-header">
                 <div className="left-h-content">
                     <h2>Hi,</h2>
-                    <h1>I am Maher Bouchnak<span>.</span></h1>
+                    <h1>   I am Maher Bouchnak<span>.</span></h1>
                     <p className="profession">Computer Engineering Student</p>
                     <p className='description'>
                    
@@ -134,7 +134,7 @@ const HeaderStyled = styled.header`
             color: ${props => props.theme.colorPurple};
         }
         h1{
-            font-size: 6rem;
+            font-size: 5rem;
             span{
                 color: ${props => props.theme.colorPrimary};
             }
