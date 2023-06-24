@@ -65,7 +65,7 @@ export const portfolios = [
         title: "React portfolio website",
         image: port,
         link1: "https://github.com/Bouchnak-Maher/Portfolio.git",
-        link2: "https://github.com/Bouchnak-Maher/Portfolio.gits",
+        link2: "https://bouchnak-maher.github.io/Test/",
         icon1: git,
         icon2: eye,
     },
