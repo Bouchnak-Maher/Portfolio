@@ -11,28 +11,29 @@ function Services() {
     const theme = useTheme()
     return (
         <ServicesStyled id='services' theme={theme}>
-            <Title name={'Services'} desc={'Lorem ipsum dolor sit amet consectetur adipisicing elit.'} />
+            <Title name={'Services'}  />
             <div className="services-con">
                 <ServiceItem 
                     icon={design} 
+                    
                     title={'Web Design'}
                     bg={theme.colorPurple}
                     shadow={theme.shadowPurple}
-                    desc={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil suscipit corrupti voluptates magnam, voluptatem aliquid laborum consectetur.'}
+                    desc={'Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.'}
                 />
                 <ServiceItem 
                     icon={desktop}
-                    title={'Game Development'}
+                    title={'Artificial intelligence'}
                     bg={theme.colorGreenDark}
                     shadow={theme.shadowGreen}
-                    desc={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil suscipit corrupti voluptates magnam, voluptatem aliquid laborum consectetur.'}
+                    desc={'Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision'}
                 />
                 <ServiceItem 
                     icon={code}
                     title={'Web Development'}
                     shadow={theme.shadowPrimary}
                     bg={theme.colorPrimary}
-                    desc={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil suscipit corrupti voluptates magnam, voluptatem aliquid laborum consectetur.'}
+                    desc={'Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.'}
                 />
             </div>
         </ServicesStyled>

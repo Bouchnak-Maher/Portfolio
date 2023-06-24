@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Header from './Components/Header/Header';
 import Navigation from './Components/Navigation/Navigation';
 import About from './Components/Sections/About';
-import Blogs from './Components/Sections/Blogs';
+
 import Contact from './Components/Sections/Contact';
 import Experience from './Components/Sections/Experience';
 import Portfolios from './Components/Sections/Portfolios';
@@ -24,8 +24,7 @@ function App() {
         <About />
         <Services />
         <Experience />
-        <Portfolios />
-        <Blogs />
+        <Portfolios />   
         <Contact />
       </main>
       <footer>

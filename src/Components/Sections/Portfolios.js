@@ -79,7 +79,7 @@ function Portfolios() {
         <PortfoliosStyled id='portfolios' theme={theme}>
             <Title
                 name="Portfolios"
-                desc={"Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+                
             />
             <div className="filter-btns">
                 {

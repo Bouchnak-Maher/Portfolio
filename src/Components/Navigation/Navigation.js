@@ -22,9 +22,7 @@ function Navigation({toggle}) {
                 <li className="nav-item">
                     <a href="#portfolios">Portfolios</a>
                 </li>
-                <li className="nav-item">
-                    <a href="#blogs">Blogs</a>
-                </li>
+                
                 <li className="nav-item">
                     <a href="#contact">Contact</a>
                 </li>

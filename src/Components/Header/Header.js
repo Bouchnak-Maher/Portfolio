@@ -22,7 +22,8 @@ function Header({toggle, setToggle}) {
             <div className="left-header">
                 <div className="left-h-content">
                     <h2>Hi,</h2>
-                    <h1>I am Maher Bouchnak<span>.</span></h1>
+                    <h1>I am Maher  Bouchnak<span>.</span></h1>
+                    <br></br>
                     <p className="profession">Computer Engineering Student</p>
                     <p className='description'>
                    
