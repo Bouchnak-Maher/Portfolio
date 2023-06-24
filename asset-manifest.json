@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.js": "/Test/static/js/main.02f21bc8.js",
+    "main.js": "/Test/static/js/main.3a81738e.js",
     "static/media/worldcup.png": "/Test/static/media/worldcup.ddb9fbaf1c513be35601.png",
     "static/media/doc.png": "/Test/static/media/doc.0dab8c514d8aa3b08ec7.png",
     "static/media/about.png": "/Test/static/media/about.1091901373b54c705bff.png",
     "static/media/port.png": "/Test/static/media/port.b854052aadebe61fae82.png",
     "static/media/maher.png": "/Test/static/media/maher.fc3e09fbde51878fa120.png",
-    "static/media/blog5.svg": "/Test/static/media/blog5.2599a6b148b590c6ae22f160bfb1278e.svg",
-    "static/media/blog1.svg": "/Test/static/media/blog1.7ecbb78c2c6c6c0b932e117f71187572.svg",
     "static/media/Resume-Maher-Bouchnak.pdf": "/Test/static/media/Resume-Maher-Bouchnak.2d73014c7752ef97fc59.pdf",
-    "static/media/blog3.svg": "/Test/static/media/blog3.6291ee7cef8ff133eb035db378fd54fd.svg",
     "static/media/detc.png": "/Test/static/media/detc.ba64f9d3e9c8ff00dea1.png",
-    "static/media/blog4.svg": "/Test/static/media/blog4.60aa6cecd146aaa676c8c080eb0f4fae.svg",
-    "static/media/blog2.svg": "/Test/static/media/blog2.099393515c71efe3ba88fc053f6a32cf.svg",
     "static/media/doctor.png": "/Test/static/media/doctor.fd2b04a769628060e601.png",
     "static/media/map.png": "/Test/static/media/map.3a57e88c81ae5634a98a.png",
     "static/media/cnn.jpg": "/Test/static/media/cnn.d6fda9e4ca40476e505d.jpg",
@@ -20,9 +15,9 @@
     "static/media/shape1.png": "/Test/static/media/shape1.2f1a30f96cd0b17b6fc5.png",
     "static/media/shape2.png": "/Test/static/media/shape2.1623388cca182595c12e.png",
     "index.html": "/Test/index.html",
-    "main.02f21bc8.js.map": "/Test/static/js/main.02f21bc8.js.map"
+    "main.3a81738e.js.map": "/Test/static/js/main.3a81738e.js.map"
   },
   "entrypoints": [
-    "static/js/main.02f21bc8.js"
+    "static/js/main.3a81738e.js"
   ]
 }
