@@ -25,7 +25,7 @@ function Contact() {
                 <h4><br></br>Don't hesitate to contact me if you have new projects, creative ideas, or opportunities<br></br> that align with your visions.<br></br> I'm always open to discussing these possibilities <br></br>and willing to offer my help in any way I can.</h4>
                 <br></br> <br></br>
                     <div className="contact-icons">
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a  target="_blank" rel="noopener noreferrer">
                         <FaEnvelope className="icon" />     &nbsp;  Mail Me : &nbsp;&nbsp;maher.bouchnak@enis.tn
                         </a><br></br><br></br>
                         <a href="" target="_blank" rel="noopener noreferrer">
