@@ -40,7 +40,7 @@ function Contact() {
                         <FaLinkedin className="icon" />
                         </a>
                         &nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://www.instagram.com/Maher-Bouchnak" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.instagram.com/meher.bouchnak/" target="_blank" rel="noopener noreferrer">
                         <FaInstagram className="icon" />
                         </a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="https://github.com/Bouchnak-Maher" target="_blank" rel="noopener noreferrer">
