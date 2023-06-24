@@ -8,7 +8,7 @@ function Navigation({toggle}) {
         <NavigationStyled toggle={toggle} theme={theme}>
             <ul className="nav-items">
                 <li>
-                    <a href="/Test">Home</a>
+                    <a href="/React_Portfolio">Home</a>
                 </li>
                 <li className="nav-item">
                     <a href="#about">About</a>
