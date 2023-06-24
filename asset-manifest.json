@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Test/static/js/main.ad440b08.js",
+    "main.js": "/Test/static/js/main.6c7cdc5c.js",
     "static/media/worldcup.png": "/Test/static/media/worldcup.ddb9fbaf1c513be35601.png",
     "static/media/doc.png": "/Test/static/media/doc.0dab8c514d8aa3b08ec7.png",
     "static/media/about.png": "/Test/static/media/about.1091901373b54c705bff.png",
@@ -15,9 +15,9 @@
     "static/media/shape1.png": "/Test/static/media/shape1.2f1a30f96cd0b17b6fc5.png",
     "static/media/shape2.png": "/Test/static/media/shape2.1623388cca182595c12e.png",
     "index.html": "/Test/index.html",
-    "main.ad440b08.js.map": "/Test/static/js/main.ad440b08.js.map"
+    "main.6c7cdc5c.js.map": "/Test/static/js/main.6c7cdc5c.js.map"
   },
   "entrypoints": [
-    "static/js/main.ad440b08.js"
+    "static/js/main.6c7cdc5c.js"
   ]
 }
