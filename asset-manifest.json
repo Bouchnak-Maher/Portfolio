@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/React_Portfolio/static/js/main.3ad27324.js",
+    "main.js": "/React_Portfolio/static/js/main.a6360481.js",
     "static/media/worldcup.png": "/React_Portfolio/static/media/worldcup.ddb9fbaf1c513be35601.png",
     "static/media/doc.png": "/React_Portfolio/static/media/doc.0dab8c514d8aa3b08ec7.png",
     "static/media/about.png": "/React_Portfolio/static/media/about.1091901373b54c705bff.png",
@@ -15,9 +15,9 @@
     "static/media/shape1.png": "/React_Portfolio/static/media/shape1.2f1a30f96cd0b17b6fc5.png",
     "static/media/shape2.png": "/React_Portfolio/static/media/shape2.1623388cca182595c12e.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.3ad27324.js.map": "/React_Portfolio/static/js/main.3ad27324.js.map"
+    "main.a6360481.js.map": "/React_Portfolio/static/js/main.a6360481.js.map"
   },
   "entrypoints": [
-    "static/js/main.3ad27324.js"
+    "static/js/main.a6360481.js"
   ]
 }
