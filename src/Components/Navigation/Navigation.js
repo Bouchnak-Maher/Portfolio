@@ -13,9 +13,7 @@ function Navigation({toggle}) {
                 <li className="nav-item">
                     <a href="#about">About</a>
                 </li>
-                <li className="nav-item">
-                    <a href="#services">Services</a>
-                </li>
+               
                 <li className="nav-item">
                     <a href="#experience">Experience</a>
                 </li>
