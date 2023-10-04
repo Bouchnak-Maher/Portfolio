@@ -35,7 +35,12 @@ function Timeline() {
                     desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
                     icon={brief}
                 />
-               
+               <TimelineItem
+                    duration={'Jun.-Aug.2022 '}
+                    title={'Alfa Computers & Consulting– internship'}
+                    desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
+                    icon={brief}
+                />
                 <TimelineItem
                     duration={'Feb.-Jun. 2023'}
                     title={'End of year project'}
