@@ -31,7 +31,7 @@ function Timeline() {
             <div className="jobs-timeline timeline">
                 <TimelineItem
                     duration={'Jun.-Aug.2022 '}
-                    title={'Alfa Computers & Consulting– internship'}
+                    title={'Development Internship : Web Development - Full Stack Spring Boot Angular'}
                     desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
                     icon={brief}
                 />
