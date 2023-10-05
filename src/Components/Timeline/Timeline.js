@@ -30,21 +30,22 @@ function Timeline() {
             </div>
             <div className="jobs-timeline timeline">
                 <TimelineItem
-                    duration={'Jun.-Aug.2022 '}
-                    title={'Development Internship : Web Development - Full Stack Spring Boot Angular'}
-                    desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
+                    duration={'{June 2023 - Aug  2023 '}
+                    title={'Development Internship : Web Development - Full Stack Spring Boot Angular:ADS&CO'}
+                    desc={'Design and development of a web application based on Spring Boot (microservices) and Angular.Objective: Facilitate online appointments and manage customers, employees and services for a hair salon.Technology Used: Spring boot(Config Server,API Gateway,Spring Cloud Netflix Eureka),MySQL,Angular.'}
                     icon={brief}
                 />
-               <TimelineItem
-                    duration={'Jun.-Aug.2022 '}
-                    title={'Alfa Computers & Consulting– internship'}
-                    desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
-                    icon={brief}
-                />
+              
                 <TimelineItem
-                    duration={'Feb.-Jun. 2023'}
-                    title={'End of year project'}
-                    desc={' Development of a thin client-oriented application for centralizing patient data and computerized data exchange Tools: Spring boot-MySQL-html – Css - javascript – bootstrap - Jquery  '}
+                    duration={'{Feb 2023 - June 2023'}
+                    title={'End of year project : Web Development - Backend Spring Boot '}
+                    desc={' Creation of a web application to centralize patient medical data.Objective: Simplify coordination between medical professionals (doctors, pharmacies, laboratories).Reduce paperwork and travel for patients.Technology Used: Spring Boot (microservices architecture),Template,Thymeleaf,MySQL,JavaScript. '}
+                    icon={brief}
+                />
+                 <TimelineItem
+                    duration={'Jun.-July.2022 '}
+                    title={'Development Internship: Web Development - Full Stack PHP Native:Alfa Computers & Consulting'}
+                    desc={'Blog Website Development of a World Cup website provides the following features: Blogger authentication , User management (bloggers),  Article management, Tag management, Validation  of comments.Tools: PHP, MySQL, Html, CSS, Bootstrap,  Javascript'}
                     icon={brief}
                 />
             </div>
