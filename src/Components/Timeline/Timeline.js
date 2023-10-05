@@ -30,14 +30,19 @@ function Timeline() {
             </div>
             <div className="jobs-timeline timeline">
                 <TimelineItem
-                    duration={'{June 2023 - Aug  2023 '}
+                    duration={'June 2023 - Aug  2023 '}
                     title={'Development Internship : Web Development - Full Stack Spring Boot Angular:ADS&CO'}
-                    desc={'Design and development of a web application based on Spring Boot (microservices) and Angular.Objective: Facilitate online appointments and manage customers, employees and services for a hair salon.Technology Used: Spring boot(Config Server,API Gateway,Spring Cloud Netflix Eureka),MySQL,Angular.'}
-                    icon={brief}
+                    desc={
+                        <div>
+                            Design and development of a web application based on Spring Boot (microservices) and Angular.<br />
+                            Objective: Facilitate online appointments and manage customers, employees and services for a hair salon.<br />
+                            Technology Used: Spring boot (Config Server, API Gateway, Spring Cloud Netflix Eureka), MySQL, Angular.
+                        </div>
+                    }                    icon={brief}
                 />
               
                 <TimelineItem
-                    duration={'{Feb 2023 - June 2023'}
+                    duration={'Feb 2023 - June 2023'}
                     title={'End of year project : Web Development - Backend Spring Boot '}
                     desc={' Creation of a web application to centralize patient medical data.Objective: Simplify coordination between medical professionals (doctors, pharmacies, laboratories).Reduce paperwork and travel for patients.Technology Used: Spring Boot (microservices architecture),Template,Thymeleaf,MySQL,JavaScript. '}
                     icon={brief}
